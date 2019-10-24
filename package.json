@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template/issues"
   },
-  "homepage": "https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template#readme"
+  "homepage": "https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template#readme",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "request": "^2.88.0",
+    "sinon": "^7.5.0"
+  }
 }
