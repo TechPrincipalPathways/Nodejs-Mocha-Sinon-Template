@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mocha-sinon-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template.git"
+  },
+  "author": "ali sarshogh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template/issues"
+  },
+  "homepage": "https://github.com/cloud-programmer/Nodejs-Mocha-Sinon-Template#readme"
+}
